@@ -1,0 +1,1 @@
+print("hello","world",123,True,3.141)
